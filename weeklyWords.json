@@ -1,0 +1,28 @@
+{
+  "words": 
+    [
+      {
+      "highFrequencyWords": [
+        {"word": "two", "soundFile": ""},
+        {"word": "too", "soundFile": ""},
+        {"word": "knew", "soundFile": ""},
+        {"word": "sometimes", "soundFile": ""},
+        {"word": "they", "soundFile": ""}
+      ],
+      "otherWords": [
+        {"word": "anger", "soundFile": ""},
+        {"word": "enter", "soundFile": ""},
+        {"word": "super", "soundFile": ""},
+        {"word": "paper", "soundFile": ""},
+        {"word": "clerk", "soundFile": ""},
+        {"word": "herd", "soundFile": ""},
+        {"word": "fur", "soundFile": ""},
+        {"word": "surf", "soundFile": ""},
+        {"word": "hurt", "soundFile": ""},
+        {"word": "burst", "soundFile": ""},
+        {"word": "church", "soundFile": ""},
+        {"word": "purple", "soundFile": ""}
+      ]
+    }
+  ]
+}
